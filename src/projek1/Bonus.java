@@ -18,7 +18,7 @@ public static void main(String[] args){
     double gaji;
     double bonus;
     
-    System.out.print("Masukkan bilangan pelanggan anda: ");
+    System.out.print("Masukkan bilangan pelanggan yang anda miliki: ");
     pel=scan.nextInt();
     
     if (pel <= 10){
